@@ -17,4 +17,4 @@ jobs:
       run: g++ "Main.cpp" -o kalkulator
       
     - name: Run program
-      run: ./kalkukaltor
+      run: ./kalkulator
