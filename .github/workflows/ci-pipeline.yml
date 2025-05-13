@@ -14,7 +14,7 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y g++
       
     - name: Compile code
-      run: g++ "Main.cpp" -o kasir
+      run: g++ "Main.cpp" -o kalkulator
       
     - name: Run program
       run: ./kalkukaltor
